@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jason Berry, an <a href="https://linkedin.com/in/jason-b-a68ba72b/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/fourtywater/osticket-prereqs)
