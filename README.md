@@ -15,8 +15,7 @@
 
 [<img align="left" alt="Jason | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jason | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jason | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [twitter]: https://twitter.com/jb_nomad
-[instagram]: https://www.instagram.com/jb_dadigitalnomad/
 [linkedin]: https://linkedin.com/in/jason-b-a68ba72b/
